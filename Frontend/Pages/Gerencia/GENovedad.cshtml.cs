@@ -19,7 +19,5 @@ namespace Frontend
             Novedads = _repositorioNovedad.GetAllNovedad();
         }
 
-        
-    
     }
 }
